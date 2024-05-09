@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/structural-design-patterns/pom.xml" />
         <option value="$PROJECT_DIR$/structural-design-patterns/decorator-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/behavioural-design-patterns/Strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/behavioural-design-patterns/observer-design-patterns/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
