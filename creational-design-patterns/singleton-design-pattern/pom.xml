@@ -5,12 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lk.ijse</groupId>
-    <artifactId>Creational</artifactId>
-    <version>1.0.0</version>
-    <packaging>pom</packaging>
-    <modules>
-        <module>Singleton</module>
-    </modules>
+    <artifactId>singleton-design-pattern</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
 
 </project>

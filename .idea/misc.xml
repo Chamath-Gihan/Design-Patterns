@@ -6,11 +6,13 @@
       <list>
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/Creational/pom.xml" />
+        <option value="$PROJECT_DIR$/creational-design-patterns/singleton-design-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/creational-design-patterns/Singleton/pom.xml" />
       </set>
     </option>
   </component>
