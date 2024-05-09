@@ -8,16 +8,19 @@
         <option value="$PROJECT_DIR$/Creational/pom.xml" />
         <option value="$PROJECT_DIR$/creational-design-patterns/singleton-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/creational-design-patterns/factory-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/structural-design-patterns/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/Singleton/pom.xml" />
         <option value="$PROJECT_DIR$/creational-design-patterns/Singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/creational-design-patterns/factory-design-pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/structural-design-patterns/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
