@@ -1,6 +1,6 @@
 package org.example;
 
-public class Main {
+public class FactoryMain {
     public static void main(String[] args) {
         HumanFactory factory = new HumanFactory();
         System.out.println(factory.getHuman("MALE"));

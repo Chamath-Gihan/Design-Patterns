@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/creational-design-patterns/singleton-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/creational-design-patterns/factory-design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/structural-design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/structural-design-patterns/decorator-design-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="singleton-design-pattern" />
+        <module name="decorator-design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
